@@ -2,6 +2,9 @@
 
 Este é o backend do sistema BetAware responsável pela autenticação facial dos usuários. O serviço utiliza tecnologias de deep learning para reconhecimento facial e fornece uma API REST para cadastro e login de usuários através de suas faces.
 
+Link App:
+https://github.com/pedrobicas/BetAwareApp/tree/faceauth
+
 ## 📋 Visão Geral
 
 O backend de autenticação facial é construído com Flask e utiliza a biblioteca DeepFace para processamento de reconhecimento facial. O sistema permite:
